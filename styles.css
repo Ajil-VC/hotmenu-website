@@ -701,7 +701,7 @@ footer a {
 
     .legal-page {
         width: min(100% - 40px, 580px);
-        padding: 58px 0 76px
+        padding: 58px 16px 76px
     }
 }
 
